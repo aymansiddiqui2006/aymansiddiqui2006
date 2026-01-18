@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ayman 👋
 
-<!--
-**aymansiddiqui2006/aymansiddiqui2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech (2nd Year) | Computer Science & Technology  
+💻 Beginner developer learning core computer science concepts and web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+I am a computer science student who is learning programming fundamentals and building small projects to improve my practical skills.
+
+---
+
+## 📚 What I’m Learning / Working On
+- Programming basics (C / C++ / Java)
+- Web development fundamentals
+- JavaScript and React basics
+- Data structures and problem solving
+
+---
+
+## 🛠️ Tools & Technologies
+- Languages: C, C++, Java, JavaScript
+- Web: HTML, CSS, React (beginner)
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📫 How to Reach Me
+- Email: aymansiddiqui2006@gmail.com
+- GitHub: [https://github.com/your-username ](https://github.com/aymansiddiqui2006) 
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aymansiddiqui2006/)
