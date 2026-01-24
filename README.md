@@ -27,5 +27,5 @@ I am a computer science student who is learning programming fundamentals and bui
 
 ## 📫 How to Reach Me
 - Email: aymansiddiqui2006@gmail.com
-- GitHub: [https://github.com/your-username ](https://github.com/aymansiddiqui2006) 
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aymansiddiqui2006/)
+- GitHub: https://github.com/aymansiddiqui2006
+- LinkedIn: https://www.linkedin.com/in/aymansiddiqui2006/
