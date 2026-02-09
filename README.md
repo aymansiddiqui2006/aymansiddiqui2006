@@ -11,7 +11,7 @@ I am a computer science student who is learning programming fundamentals and bui
 ---
 
 ## 📚 What I’m Learning / Working On
-- Programming basics (C / C++ / Java)
+- Programming basics (C / C++ )
 - Web development fundamentals
 - JavaScript and React basics
 - Data structures and problem solving
@@ -19,7 +19,7 @@ I am a computer science student who is learning programming fundamentals and bui
 ---
 
 ## 🛠️ Tools & Technologies
-- Languages: C, C++, Java, JavaScript
+- Languages: C, C++, JavaScript
 - Web: HTML, CSS, React (beginner)
 - Tools: Git, GitHub, VS Code
 
